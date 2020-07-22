@@ -21,7 +21,7 @@
 
         {
             "en": {
-                "title": "SSet variables from a list",
+                "title": "Set variables from a list",
                 "description": "Set variables from a list (array)",
                 "title_options": "Select Option",
                 "options":null
